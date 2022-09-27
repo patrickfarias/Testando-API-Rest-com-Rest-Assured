@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class RestAssuredApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(RestAssuredApplication.class, args);
 	}
 
